@@ -1,2 +1,3 @@
 # demo
-rhis is my first git reprository
+this is my first git repository <br>
+author-yaser
